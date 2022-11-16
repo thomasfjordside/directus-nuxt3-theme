@@ -1,0 +1,1 @@
+# directus-nuxt3-theme
